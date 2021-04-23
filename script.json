@@ -181,5 +181,110 @@
             "200": 14,
             "301": 2
         }
+    },
+    {
+        "views": 301,
+        "urls": 5,
+        "traffic": 15,
+        "crawlers": {
+            "Google": 2,
+            "Bing": 0,
+            "Baidu": 0,
+            "Yandex": 0
+        },
+        "statusCode": {
+            "200": 14,
+            "301": 2
+        }
+    },
+    {
+        "views": 302,
+        "urls": 5,
+        "traffic": 15,
+        "crawlers": {
+            "Google": 2,
+            "Bing": 0,
+            "Baidu": 0,
+            "Yandex": 0
+        },
+        "statusCode": {
+            "200": 14,
+            "301": 2
+        }
+    },
+    {
+        "views": 303,
+        "urls": 5,
+        "traffic": 16,
+        "crawlers": {
+            "Google": 2,
+            "Bing": 0,
+            "Baidu": 0,
+            "Yandex": 0
+        },
+        "statusCode": {
+            "200": 14,
+            "301": 2
+        }
+    },
+    {
+        "views": 304,
+        "urls": 5,
+        "traffic": 16,
+        "crawlers": {
+            "Google": 2,
+            "Bing": 0,
+            "Baidu": 0,
+            "Yandex": 0
+        },
+        "statusCode": {
+            "200": 14,
+            "301": 2
+        }
+    },
+    {
+        "views": 1,
+        "urls": 5,
+        "traffic": 187990,
+        "crawlers": {
+            "Google": 2,
+            "Bing": 0,
+            "Baidu": 0,
+            "Yandex": 0
+        },
+        "statusCode": {
+            "200": 14,
+            "301": 2
+        }
+    },
+    {
+        "views": 16,
+        "urls": 5,
+        "traffic": 187990,
+        "crawlers": {
+            "Google": 2,
+            "Bing": 0,
+            "Baidu": 0,
+            "Yandex": 0
+        },
+        "statusCode": {
+            "200": 14,
+            "301": 2
+        }
+    },
+    {
+        "views": 16,
+        "urls": 5,
+        "traffic": 187990,
+        "crawlers": {
+            "Google": 2,
+            "Bing": 0,
+            "Baidu": 0,
+            "Yandex": 0
+        },
+        "statusCode": {
+            "200": 14,
+            "301": 2
+        }
     }
 ]
